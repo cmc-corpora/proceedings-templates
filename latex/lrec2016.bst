@@ -1,8 +1,8 @@
 % BibTeX lrec2014.bst
-% This version was made by modyfing `lrec2014.bst` which was made by modifying
-% `lrec2006.bst' which was made by modifying `acl.bst', which was made by
-% modifying `aaai-named' format. See `acl.bst' for history of previous
-% modifications.
+% This version was made by modyfing `lrec2006.bst' which was made
+% by modifying `acl.bst', which was made 
+% by modifying `aaai-named' format. See `acl.bst' for history
+% of previous modifications 
 
 % Two differences introduced in this file:
 % The surname of authors is listed first, before their first name initials (see FUNCTION {format.names}) 
